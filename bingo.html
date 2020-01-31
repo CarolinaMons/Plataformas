@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h2>B</h2>
+        <button num1 id="1" onclick="updateButton(1)"> holawendia</button>
+        <button num2 id="2" onclick="updateButton(2)"> holawendia</button>
+        <button num3 id="3" onclick="updateButton(3)"> holawendia</button>
+        <button num4 id="4" onclick="updateButton(4)"> holawendia</button>
+        <button num5 id="5" onclick="updateButton(5)"> holawendia</button>
+        
+    </div>
+    <div>
+        <h2>I</h2>
+        <button num6 id="6" onclick="updateButton(6)"> holawendia</button>
+        <button num7 id="7" onclick="updateButton(7)"> holawendia</button>
+        <button num8 id="8" onclick="updateButton(8)"> holawendia</button>
+        <button num9 id="9" onclick="updateButton(9)"> holawendia</button>
+        <button num10 id="10" onclick="updateButton(10)"> holawendia</button>
+        
+    </div>
+    <div> 
+        <h2>N</h2>
+        <button num11 id="11" onclick="updateButton(11)"> holawendia</button>
+        <button num12 id="12" onclick="updateButton(12)"> holawendia</button>
+        <button num13 id="13" onclick="updateButton(13)"> holawendia</button>
+        <button num14 id="14" onclick="updateButton(14)"> holawendia</button>
+        <button num15 id="15" onclick="updateButton(15)"> holawendia</button>
+       
+    </div>
+    <div>
+        <h2>G</h2>
+        <button num16 id="16" onclick="updateButton(16)"> holawendia</button>
+        <button num17 id="17" onclick="updateButton(17)"> holawendia</button>
+        <button num18 id="18" onclick="updateButton(18)"> holawendia</button>
+        <button num19 id="19" onclick="updateButton(19)"> holawendia</button>
+        <button num20 id="20" onclick="updateButton(20)"> holawendia</button>
+        
+    </div>
+    <div>
+        <h2>O</h2>
+        <button num21 id="21" onclick="updateButton(21)"> holawendia</button>
+        <button num22 id="22" onclick="updateButton(22)"> holawendia</button>
+        <button num23 id="23" onclick="updateButton(23)"> holawendia</button>
+        <button num24 id="24" onclick="updateButton(24)"> holawendia</button>
+        <button num25 id="25" onclick="updateButton(25)"> holawendia</button>
+        
+    </div>
+</body>
+    <script>
+        function hola () {
+            console.log("lo que quiera")
+        }
+        function getRandom (min,max){
+            return Math.floor(Math.random ()* (max - min) + min); // min incluido, max excluido 
+        }
+        function updateButton (id){
+            let button = document.getElementById(id);
+            button.innerText = "✓"
+        }
+        function random(){
+            let button;
+            for(var i=1; i <= 25; i++){
+                 button = document.getElementById(i);
+                 button.innerText = getRandom(1,75);
+                 
+            }
+        }
+        random();
+    </script>
+</html>
