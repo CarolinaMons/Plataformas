@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\bin\Debug\netcoreapp2.1\NumeroPalindrome.deps.json
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\bin\Debug\netcoreapp2.1\NumeroPalindrome.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\bin\Debug\netcoreapp2.1\NumeroPalindrome.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\bin\Debug\netcoreapp2.1\NumeroPalindrome.dll
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\bin\Debug\netcoreapp2.1\NumeroPalindrome.pdb
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.dll
+C:\Users\ADMIN\source\repos\NumeroPalindrome\NumeroPalindrome\obj\Debug\netcoreapp2.1\NumeroPalindrome.pdb
